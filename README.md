@@ -5,8 +5,8 @@ Welcome to **SS-Skylift**! This is a Skylift script that allows you to attach an
 ## Video Preview
 
 <details>
-  <summary>Click to expand!</summary>
-  [![Watch the SS-Skylift Video Preview](https://img.youtube.com/vi/zFX6cX8kuB0/0.jpg)](https://youtu.be/zFX6cX8kuB0)
+  <summary>Video</summary>
+ https://youtu.be/zFX6cX8kuB0
 </details>
 
 ## Overview
