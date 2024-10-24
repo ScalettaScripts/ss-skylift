@@ -2,6 +2,13 @@
 
 Welcome to **SS-Skylift**! This is a Skylift script that allows you to attach and detach vehicles using the base game Skylift!
 
+## Video Preview
+
+<details>
+  <summary>Click to expand!</summary>
+  [![Watch the SS-Skylift Video Preview](https://img.youtube.com/vi/zFX6cX8kuB0/0.jpg)](https://youtu.be/zFX6cX8kuB0)
+</details>
+
 ## Overview
 
 **SS-Skylift** allows players to use the Skylift's magnet to attach nearby vehicles and detach them when needed.
