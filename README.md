@@ -1,4 +1,4 @@
-# ScalletaScripts Skylift (SS-Skylift)
+# ScalettaScripts Skylift (SS-Skylift)
 
 Welcome to **SS-Skylift**! This is a Skylift script that allows you to attach and detach vehicles using the base game Skylift!
 
